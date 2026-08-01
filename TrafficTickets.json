@@ -1,0 +1,18 @@
+{
+    "keywords": ["traffic", "speeding", "ticket", "red light", "HTA", "demerit", "careless driving", "parking ticket"],
+    "responses": [
+        "We help with traffic tickets. 60-65% success rate for reducing charges.",
+        "Traffic tickets affect insurance for 3+ years. We can help.",
+        "For traffic matters: review officer notes, identify errors, negotiate reductions.",
+        "Red light tickets are serious. We can help defend against these charges.",
+        "Speeding tickets? We analyze officer evidence and negotiate for you."
+    ],
+    "questions": [
+        "What type of ticket did you receive?",
+        "When did this happen?",
+        "Do you know the fine amount?",
+        "Is this your first traffic ticket?",
+        "Have you received a court date?"
+    ],
+    "details": "Traffic Ticket Process: 1. Request officer notes 2. Identify errors 3. Negotiate with prosecutor 4. Court representation 5. Aim for reduction/dismissal"
+}

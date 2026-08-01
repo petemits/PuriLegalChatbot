@@ -1,0 +1,42 @@
+{
+    "greeting": [
+        "Hello! Welcome to Puri Legal Services. How can I help you today?",
+        "Hi there! Thanks for contacting Puri Legal Services.",
+        "Welcome! I'm here to assist with Ontario legal matters."
+    ],
+    "farewell": [
+        "Thank you for contacting Puri Legal Services.",
+        "Goodbye! Call us at (905) 497-0090 if you need help.",
+        "Take care! We're here when you need legal assistance."
+    ],
+    "help": [
+        "I can help with: Traffic Tickets, Small Claims, Landlord-Tenant, Immigration.",
+        "Services: Traffic tickets, Small claims, LTB disputes, Immigration support.",
+        "We offer: Legal representation, Document preparation, Free consultations."
+    ],
+    "contact": [
+        "Contact: Phone (905) 497-0090, Email pls@bell.net",
+        "Call (905) 497-0090 or email pls@bell.net",
+        "Reach us: (905) 497-0090 | pls@bell.net"
+    ],
+    "appointment": [
+        "I can book a FREE consultation for you.",
+        "Let's schedule a consultation to review your case.",
+        "Book a free initial assessment today."
+    ],
+    "cost": [
+        "Affordable legal help - free initial consultation.",
+        "Cost-effective paralegal services.",
+        "Discuss fees during your free consultation."
+    ],
+    "documents": [
+        "Bring all relevant documents to your consultation.",
+        "Documents needed: legal papers, evidence, IDs.",
+        "Prepare: tickets, contracts, notices, evidence."
+    ],
+    "default": [
+        "I understand you need legal help. Could you tell me more?",
+        "I can assist with Ontario legal matters. What specific issue?",
+        "Tell me more about your situation."
+    ]
+}

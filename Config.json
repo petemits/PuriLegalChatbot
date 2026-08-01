@@ -1,0 +1,14 @@
+{
+    "CompanyName": "Puri Legal Services",
+    "CompanyPhone": "(905) 497-0090",
+    "CompanyEmail": "pls@bell.net",
+    "CompanyAddress": "808 Britannia Rd W, Unit 207, Mississauga, ON, L5V 0A7",
+    "CompanyWebsite": "https://purilegalservices.ca",
+    "SuccessRates": {
+        "TrafficTickets": "60-65%",
+        "SmallClaims": "70%",
+        "LandlordTenant": "60%",
+        "Immigration": "75%"
+    },
+    "AppointmentTypes": ["In-Person", "Phone", "Video"]
+}

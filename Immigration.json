@@ -1,0 +1,18 @@
+{
+    "keywords": ["immigration", "visa", "sponsorship", "work permit", "PR", "citizenship", "refugee", "IRCC"],
+    "responses": [
+        "Immigration applications need precision. 75% success rate.",
+        "We help with visas, sponsorships, and work permits.",
+        "We fix immigration errors that cause refusals.",
+        "Previously refused? We have 75% success with resubmissions.",
+        "Immigration paperwork must be perfect. We ensure accuracy."
+    ],
+    "questions": [
+        "What type of application?",
+        "Is this new or a refusal?",
+        "Which country's application?",
+        "What's your current status?",
+        "Have you submitted before?"
+    ],
+    "details": "Immigration Process: 1. Review application 2. Check documents 3. Prepare explanations 4. Submit 5. Follow up"
+}

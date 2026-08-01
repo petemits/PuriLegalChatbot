@@ -1,0 +1,18 @@
+{
+    "keywords": ["small claims", "owe money", "debt", "contract", "lawsuit", "unpaid", "recover money"],
+    "responses": [
+        "Small claims court handles disputes up to $35,000. 70% success rate.",
+        "For money recovery, we draft claims and organize evidence.",
+        "Contract disputes? We can help recover what you're owed.",
+        "Debt collection through small claims court is effective.",
+        "We help with unpaid invoices and contract breaches."
+    ],
+    "questions": [
+        "How much money is involved?",
+        "Is there a written contract?",
+        "What evidence do you have?",
+        "When did this dispute begin?",
+        "Have you sent a demand letter?"
+    ],
+    "details": "Small Claims Process: 1. Demand letter 2. File claim 3. Settlement conference 4. Trial 5. Enforcement"
+}

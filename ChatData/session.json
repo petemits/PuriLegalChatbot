@@ -1,0 +1,19 @@
+{
+    "ClientName":  "",
+    "LastMessageTime":  {
+                            "value":  "\/Date(1769104739966)\/",
+                            "DisplayHint":  2,
+                            "DateTime":  "Thursday, January 22, 2026 12:58:59 PM"
+                        },
+    "LastTopic":  "red light",
+    "TopicsDiscussed":  [
+                            "traffic",
+                            "red light"
+                        ],
+    "StartTime":  {
+                      "value":  "\/Date(1769100366876)\/",
+                      "DisplayHint":  2,
+                      "DateTime":  "Thursday, January 22, 2026 11:46:06 AM"
+                  },
+    "ConversationCount":  10
+}

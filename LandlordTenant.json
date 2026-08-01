@@ -1,0 +1,18 @@
+{
+    "keywords": ["landlord", "tenant", "rent", "eviction", "LTB", "repairs", "deposit", "maintenance"],
+    "responses": [
+        "Landlord-tenant issues require proper LTB procedures. 60% success rate.",
+        "We handle rent disputes, evictions, and maintenance issues.",
+        "LTB matters need proper forms and representation.",
+        "Rental disputes? We can help resolve them properly.",
+        "Eviction notices require specific legal procedures."
+    ],
+    "questions": [
+        "Are you a landlord or tenant?",
+        "What specific issue are you facing?",
+        "How long has this been going on?",
+        "Have formal notices been given?",
+        "Is there a written lease?"
+    ],
+    "details": "LTB Process: 1. Document everything 2. File proper forms 3. Prepare evidence 4. Hearing representation"
+}

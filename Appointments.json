@@ -1,0 +1,14 @@
+{
+    "booking": [
+        "Would you like to book a FREE consultation?",
+        "Let me schedule a consultation for you.",
+        "I can book your appointment now."
+    ],
+    "confirmation": "Appointment confirmed! We'll contact you. Or call (905) 497-0090.",
+    "questions": [
+        "What is your name?",
+        "What is your phone number?",
+        "What is your email?",
+        "What is your preferred contact method?"
+    ]
+}
