@@ -7,7 +7,7 @@
 **Entry Point**: `not detected`  
 **Codebase**: 1 source files, 523 lines of production‑ready code  
 **Architecture**: Procedural  
-**Key Components**: 7 function(s): Save, Start, Get, Load, Log
+**Key Components**: 7 function(s): Log, Book, Start, Load, Save
 
 This project contains 0 class(es) and 7 function(s).
 
@@ -24,9 +24,9 @@ This project contains 0 class(es) and 7 function(s).
 - **Competitive Advantage**: Provides real‑time intelligence that outpaces competitors.
 - **Future‑Proof**: Designed to integrate with emerging AI and cloud technologies.
 
-## 🧠 My Approach: The Sustainability Coder
+## 🧠 My Approach: The AI Ethicist
 
-I build green software. I minimise energy consumption, reduce carbon footprint, and design for environmental sustainability.
+I build fair, transparent, and explainable AI. I mitigate bias, ensure privacy, and foster trust in algorithmic decisions.
 
 ### 📌 My Focus & Track Record
 - **Role**: AI Systems Integrator
@@ -38,7 +38,7 @@ I build green software. I minimise energy consumption, reduce carbon footprint, 
 ### 🎯 Why This Project Exists
 **PuriLegalChatbot** is a direct reflection of this approach – a practical, battle‑tested component designed to solve a specific, high‑value business problem.
 
-**For ESG Initiatives**: I help you achieve your carbon‑neutral goals through efficient code.
+**For Responsible AI Teams**: I ensure your AI does good, not harm.
 
 I am open to conversations about how I can apply this mindset to your organisation.
 ## 🎯 Revenue‑Generating Use Cases
@@ -50,21 +50,24 @@ I am open to conversations about how I can apply this mindset to your organisati
 
 ### ✨ Key Benefits
 - Cross‑Functional Collaboration: Bridges gaps between business, design, and engineering teams.
-- Operational Efficiency: Reduces manual effort by 60‑80%, freeing up talent for higher‑value work.
-- Vendor Lock‑in Avoidance: Builds with open standards, ensuring flexibility and portability.
-- Scalability: Designed to handle growing volumes without proportional cost increases.
+- Rapid Prototyping Capabilities: Enables quick validation of ideas, reducing cost of failure.
 - Resource Optimisation: Maximises output while minimising input, improving overall efficiency.
+- Vendor Lock‑in Avoidance: Builds with open standards, ensuring flexibility and portability.
+- Continuous Deployment: Enables safe, automated, and frequent releases to production.
+- Sustainable Architecture: Reduces energy consumption, aligning technology with environmental goals.
+- Personalised Customer Experiences: Delivers tailored interactions based on user behaviour and preferences.
 - Faster Time‑to‑Market: Reduces development cycles, allowing you to beat competitors to launch.
+- High Availability & Uptime: Ensures mission‑critical systems are always accessible to users.
 
 ### 🔗 Integrations
 - Local System (no external dependencies)
 
 ## 📈 Scale to SaaS & Beyond
 
-- CI/CD Pipeline: Integrate GitHub Actions to automate testing and deployment with every commit.
-- Multi‑Tenancy: Extend to support multiple customers with isolated data and custom configurations.
-- Event‑Driven Architecture: Integrate with message queues (Kafka, RabbitMQ) for asynchronous workflows.
 - API Monetisation: Wrap the core logic in a REST/GraphQL API and sell access via a subscription model.
+- CI/CD Pipeline: Integrate GitHub Actions to automate testing and deployment with every commit.
+- Event‑Driven Architecture: Integrate with message queues (Kafka, RabbitMQ) for asynchronous workflows.
+- Multi‑Tenancy: Extend to support multiple customers with isolated data and custom configurations.
 
 ## 🤖 AI Tools & Integrations (A–Z)
 
@@ -125,6 +128,24 @@ This project is designed to integrate seamlessly with a wide range of AI tools a
 | **ZenML** | MLOps framework for reproducible pipelines. |
 
 *This is a living list – new tools are constantly emerging. The modular design of this project makes it easy to plug in any AI service.*
+## 💻 AI Code Generation Tools (Free & Paid)
+
+To accelerate development, you can integrate these AI tools for code generation, autocompletion, and documentation. Pricing models are noted below.
+
+| Tool | Description | Pricing |
+| :--- | :--- | :--- |
+| **GitHub Copilot** | AI pair programmer. Free for open-source and verified students; paid plans from $10/month. | Freemium |
+| **Tabnine** | AI code completion for multiple languages. Free tier available; paid Pro from $12/month. | Freemium |
+| **Codeium** | AI-powered autocomplete and chat. Completely free for individual developers. | Free |
+| **Cursor** | AI-first code editor with built-in Copilot-like features. Free tier available; paid plans start at $20/month. | Freemium |
+| **Amazon CodeWhisperer** | AWS service for real‑time code suggestions. Free tier included; paid with AWS subscription. | Freemium |
+| **Replit Ghostwriter** | AI assistant in Replit's online IDE. Free tier included; paid plans from $7/month. | Freemium |
+| **Bito AI** | Code generation and explanation. Free for individuals; paid team plans. | Freemium |
+| **Sourcegraph Cody** | AI assistant for code understanding and generation. Free for individuals and open-source; paid for enterprise. | Freemium |
+| **Mintlify** | AI-powered documentation generator. Free tier; paid plans for teams. | Freemium |
+| **MightyMeld** | AI for React component generation. Free trial; paid plans from $15/month. | Freemium |
+
+*Most tools offer free tiers – perfect for personal projects and learning. Paid plans unlock higher limits and team features.*
 
 ## 📁 Project Structure
 ## 🚀 Full Program Guide (How to Run)
